@@ -1,6 +1,6 @@
-job('amazon-compile1') {
+job('amazon-test') {
     scm {
-        git('https://github.com/asish029/game-of-life.git')
+        git('https://github.com/asish029/gamutkart.git')
     }
     
     steps {
